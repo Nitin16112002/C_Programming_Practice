@@ -1,6 +1,6 @@
-# C_Programming_Practice
+# C_Programming_With_DSA_Practice
 
-This repository contains a comprehensive collection of C programming codes that I practiced during my college days. It covers various fundamental and advanced concepts of the C language, making it a great resource for beginners and those looking to strengthen their programming skills.
+This repository contains a comprehensive collection of C programming & DSA codes that I practiced during my college days. It covers various fundamental and advanced concepts of the C language, making it a great resource for beginners and those looking to strengthen their programming skills.
 
 ## 📂 Topics Covered
 - **Basics of C**
@@ -23,6 +23,8 @@ This repository contains a comprehensive collection of C programming codes that 
 - **File Handling**
 - **Dynamic Memory Allocation**
 - **Sorting and Searching Algorithms**
+- **DSA**
+
 
 
 ## 🧠 Why Practice C?
